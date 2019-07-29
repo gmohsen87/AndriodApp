@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\libs\internal_impl-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e460bc069dfd21d22770cf2a2370c9021b9c98a2">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-alpha2_9f5bb4cebe8ff6bd6d4991ac94769e717e21864e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_8cfe9665b32afaeefc24231473e18aecca4f1235\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_b03baa5da9099daffe68b8eef2ffd8cbc72093f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_d1ec09b1d0098f3c496204887a47b82f09f58c49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_0c5dabdc99692ed70b32f2207d2427a129dbe83c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_77229a748791ee5cf059b9cca6f80dc2e5a614c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_a29e67e6dc1ed96b695098a00a9cd1cd81d127ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_d87ded449029cb171ad4ac6c7ad5a36e1283d9f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_39f21c7de54f2ae43ee6b7bf24ca9a6b6958b2b7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_f8bb1329f7b7e7061ef4f277ebe0491eb3aed654\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8605456cf5c67afd148a50323521c9e4eab1d7c9">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_88641f18f6276770a674e0c654e1f37d95179a2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_cb4d6823e5a08a1498fccf013c379d647fdfe159\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eff8d758e06b80e3597f149f571ff612b18301e4">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b8d2307606d975a3d2a7478264c901a684ec55b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_13e222cd5e0bc5d7fda67338fb078bd856fe399c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_b1505bab390e915bab21c147f96707ead9e093b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="df7f6513d6e2aaa302bbac654807c6129b517090">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-alpha2_18fb91510fadb4e3740e428eb34d022f56c574fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_08d3f9a1509d43b643e54ddc9dbbb5242c28948f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_3547a0f18e01c9c483673f7c148362ead0576bc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_ee3f4a65b1dac73a1fe45687cd10317db2b855a9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_f8671fcb3c61f25627253f808c932e30a59b2735\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_fa322b0873234747b9deadeba6330879d716c960\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_f4c021afabe5243c4d77dd4daea49e08ee21c6ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="661a632c3b434991d6364690cbe0f786371101cc">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-alpha2_87cd13e4fd6df680b37f9da1c408ae7e8a707288\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_88096edd6161d1ccc1abfcc02e701421246fdf09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_5a1e382729ee526edccb19d3aa55eba2f3b43b39\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_157f731c8bb7905717ba3ba10eddede1c275e881\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_43ce942323f4b261155356f087782e48162e670a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_fbba684722891a80466356aadcfd94e491057920\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha2\support-annotations-24.0.0-alpha2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8071e1e6cd07e9253720313d6c14286a7ee424e0">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-alpha2_909be24f956605c72bfe687c6d21d78bbe1c3514\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32ab8bede8cd600f25a5bb3fe15068c81c8910dc">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-alpha2_391f66ee45065a68993cadf85ca9e71bfe9bc9f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bf5aa3b026d5b5fd9f4ab5e8cf13499b9e016dfb">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-alpha2_a66f87a4dd5b56c48508fe2f39b96f341f96c4cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_98ade37aaf17ecbd21c4ba67561211418463de81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\design\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dc88341cbaaac9d67a982378e5df68d8c81289ed">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0-alpha2_16b5eff8f493fcf9cf0d1fbf1a7f3914afa4f641\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0-alpha2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f417d93e1f62fd4fb4a2c0f3a4a882dd0ca7843">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0-alpha2_c10597280edc25ac94f218592a41aa4c551f9ba2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Mohsen\Desktop\Assignment_2\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_99f38c6381a6b066076cb6808b32cbf546c0d759\classes.dex" />
+    </item>
+
+</items>
